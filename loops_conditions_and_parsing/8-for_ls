@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
-
-# This script displays the contents of the current directory after the first dash.
-
+# This script displays the contents of the current directory after the first dash
 for file in *
 do
 echo "${file#*-}"
