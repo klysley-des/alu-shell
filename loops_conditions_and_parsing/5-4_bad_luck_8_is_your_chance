@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-This script displays special messages for the 4th and 8th iterations
+#This script displays special messages for the 4th and 8th iterations
 count=1
 while [ "$count" -le 10 ]
 do
